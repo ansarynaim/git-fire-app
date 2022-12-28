@@ -6,18 +6,19 @@ A full Functional React Based Web Application with Firebase Authentication and s
 
 ## Features
 
-- Use of React Router Dom to switch to various pages.
+- Use of React Router Dom to switch to switch the pages between home,signup,signin and logout.
 - Functionality of signup and signin with the help of Firebase Authentication and Creating new users.
 - Attractive design with the help of bootstrap/reactstrap.
+- Use of react-icons library to make it more lively.
 - Use of Function base Components and various react hooks.
-- Use of Axios npm Package to manage the Api request.
-- Use of Toastify to show the attractive messages . 
+- Use of Axios npm Package to manage and handle the Api request.
+- Use of Toastify to show the attractive error and notification messages. 
 
 
 
 ## Tech and Tools Stack
 
-- Bootstrap/Reactstrap,React-Toastify,Axios,Firebase,React-Router-Dom
+- Bootstrap/Reactstrap,React-Toastify,Axios,Firebase,React-Router-Dom,react-icons.
 - Text Editor-Vs Code 
 
 
