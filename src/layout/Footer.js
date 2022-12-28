@@ -12,7 +12,7 @@ const Footer = () => {
       tag="footer"
       className="text-center bg-danger text-white text-uppercase fixed-bottom p-3 "
     >
-     <FaReact /> FireGit App made with <FaHeart /> by Naim Ansary<FaReact />
+     <FaReact />GitFire App made with <FaHeart /> by Naim Ansary<FaReact />
     </Container>
   );
 };

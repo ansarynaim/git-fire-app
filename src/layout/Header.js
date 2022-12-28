@@ -24,7 +24,7 @@ const Header = () => {
       <NavbarBrand>
         <Link to="/" className="text-warning">
           <FaReact />
-          FireGit App
+          GitFire App
           <FaReact />
         </Link>
       </NavbarBrand>
